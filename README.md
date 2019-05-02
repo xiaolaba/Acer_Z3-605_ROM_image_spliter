@@ -1,6 +1,8 @@
 # Acer_Z3-605_ROM_image_spliter  
   
 For Windows only, source code is self explanatory  
+![](split_Z3-605_rom_xiaolaba.ASM)
+![](exe)
 rename 
 from
 split_Z3-605_rom_xiaolaba_EXE  
