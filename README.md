@@ -1,6 +1,6 @@
 # Acer_Z3-605_ROM_image_spliter  
   
-For Windows only, source code is self explanatory
+For Windows only, source code is self explanatory  
 https://github.com/xiaolaba/Acer_Z3-605_ROM_image_spliter/blob/master/xiaolaba_Split_SPI_IMAGE/split_Z3-605_rom_xiaolaba.ASM  
 
 exe
