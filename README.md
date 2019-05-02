@@ -1,9 +1,11 @@
 # Acer_Z3-605_ROM_image_spliter  
   
 For Windows only, source code is self explanatory  
-rename split_Z3-605_rom_xiaolaba_EXE
-to split_Z3-605_rom_xiaolaba.EXE
-or you can assembly from source code by youself.
+rename 
+```split_Z3-605_rom_xiaolaba_EXE  
+to
+``` split_Z3-605_rom_xiaolaba.EXE  
+or you can assembly from source code by youself.  
 
 
 根據以前用 INTEL的工具FPT, 輸出顯示這個機器的 FLASH ROM 是 8MB.  
