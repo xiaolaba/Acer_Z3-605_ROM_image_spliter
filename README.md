@@ -3,9 +3,9 @@
 For Windows only, source code is self explanatory  
 rename 
 from
-``` split_Z3-605_rom_xiaolaba_EXE  
+split_Z3-605_rom_xiaolaba_EXE  
 to
-``` split_Z3-605_rom_xiaolaba.EXE  
+split_Z3-605_rom_xiaolaba.EXE  
 or you can assembly from source code by youself.  
 
 
