@@ -2,7 +2,8 @@
   
 For Windows only, source code is self explanatory  
 rename 
-```split_Z3-605_rom_xiaolaba_EXE  
+from
+``` split_Z3-605_rom_xiaolaba_EXE  
 to
 ``` split_Z3-605_rom_xiaolaba.EXE  
 or you can assembly from source code by youself.  
